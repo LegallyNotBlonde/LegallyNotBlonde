@@ -1,7 +1,5 @@
 - 👋 Hi, there! I’m Sabrina.
-I’m a lifelong learner with a passion for **Data Analytics** and a love for exploring how things connect—whether in **business, economics, psychology**, or **medicine**.
-I'm eager to find interesting patterns, unlock insights, and make a meaningful impact in every project.
----
+- 🤝 I'm a **Data Analyst** uncovering patterns, unlocking insights, and driving impact through **data-driven solutions**.
 - 👀 **Interests**: From **history to sociology** to **AI and business analysis**:  I love diving into anything that sparks my curiosity. 
 - 🌱 **Enhancing my skills**: Continuously improving in Data Analytics and Machine Learning with tools like Python, SQL, Tableau, and Data Engineering.
 - 💞️ **Collaboration**: I thrive in team environments where I can **learn from others**, **share my own ideas and skills** and **help others**.  
