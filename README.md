@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sabrina Linden.
+- 👋 Hi, there! I’m Sabrina.
 I’m a lifelong learner with a passion for **Data Analytics** and a love for exploring how things connect—whether in **business, economics, psychology**, or **medicine**.
 I'm eager to find interesting patterns, unlock insights, and make a meaningful impact in every project.
 ---
