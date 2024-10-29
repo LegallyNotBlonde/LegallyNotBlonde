@@ -9,8 +9,7 @@ I'm eager to find interesting patterns, unlock insights, and make a meaningful i
 - 😄 Pronouns: she/her
 - 🎯 **Fun Fact**  
 I love **creative cooking**, taking classic recipes and giving them a unique twist (the results are always... interesting!). 🍲✨  
-- 
-⭐ **Why This GitHub is Special:**  
+- ⭐ **Why This GitHub is Special:**  
 This is more than a collection of code: it's where I explore, create, grow, and share with joy.
 **Every repository tells a story** of skills learned, challenges overcome, and discoveries made. Let's connect, collaborate, and build something amazing together!  
---->
+
