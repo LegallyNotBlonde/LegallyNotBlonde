@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @LegallyNotBlonde
-- 👀 I have a vast range of interests from economics, business analysis, medicine, history, to psycology and socioligy.
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on a team to learn from others as well as brining my own ideas and skills to the table.
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sabrina Linden.
+I’m a lifelong learner with a passion for **Data Analytics** and a love for exploring how things connect—whether in **business, economics, psychology**, or **medicine**.
+I'm eager to find interesting patterns, unlock insights, and make a meaningful impact in every project.
+---
+- 👀 **Interests**: From **history to sociology** to **AI and business analysis**:  I love diving into anything that sparks my curiosity. 
+- 🌱 **Enhancing my skills**: Continuously improving in Data Analytics and Machine Learning with tools like Python, SQL, Tableau, and Dta Engineering.
+- 💞️ **Collaboration**: I thrive in team environments where I can **learn from others**, **share my own ideas and skills** and **help others**.  
+- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/sabrinalinden/) | [Email](mailto:ms.sabrina.linden@gmail.com)  
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like creative cooking: many classic recipes taste even better with a unique twist.
+- 🎯 **Fun Fact**  
+I love **creative cooking**, taking classic recipes and giving them a unique twist (the results are always... interesting!). 🍲✨  
 - 
-LegallyNotBlonde/LegallyNotBlonde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+⭐ **Why This GitHub is Special:**  
+This is more than a collection of code: it's where I explore, create, grow, and share with joy.
+**Every repository tells a story** of skills learned, challenges overcome, and discoveries made. Let's connect, collaborate, and build something amazing together!  
 --->
