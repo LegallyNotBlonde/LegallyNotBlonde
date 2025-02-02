@@ -1,5 +1,5 @@
 - 👋 Hi, there! I’m Sabrina.
-- 🤝 I'm a **Data Analyst** uncovering patterns, unlocking insights, and driving impact through **data-driven solutions**.
+- 🤝 I'm a **Data Analyst** and **Sales Operations Analyst** uncovering patterns, unlocking insights, and driving impact through **data-driven solutions**.
 - 👀 **Interests**: From **history to sociology** to **AI and business analysis**:  I love diving into anything that sparks my curiosity. 
 - 🌱 **Enhancing my skills**: Continuously improving in Data Analytics and Machine Learning with tools like Python, SQL, Tableau, and Data Engineering.
 - 💞️ **Collaboration**: I thrive in team environments where I can **learn from others**, **share my own ideas and skills** and **help others**.  
