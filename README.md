@@ -3,7 +3,7 @@
 - 👀 **Curiosity fuels me**: From **history to sociology** to **AI and business analysis**:  I love diving into anything that sparks new ideas.
 - 🌱 **Always learning**: expanding my expertise in **Data Analytics, Machine Learning, and Data Engineering** with **Python, SQL, and Tableau**.
 - 💞️ **Thriving in collaboration**: I love **learning from others, sharing ideas, and solving challenges together**. 
-- 📫 **Let’s connect**: [LinkedIn](https://www.linkedin.com/in/sabrinalinden/) | [Email](ms.sabrina.linden@gmail.com)
+- 📫 **Let’s connect**: [LinkedIn](https://www.linkedin.com/in/sabrinalinden/) 
 - 😄 Pronouns: she/her
 - 🎯 **Fun fact**:  
 I love **creative cooking**, taking classic recipes and giving them a unique twist (sometimes a great success, sometimes... a learning experience!). 🍲✨  
